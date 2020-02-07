@@ -6,14 +6,14 @@
 
 ## Technologies
 Application uses the following technologies:
-    1. Backend:
-        * Java 8
-        * Spring
-        * Hibernate
-        * Maven
-    2. Frontend:
-        * React.js
-    3. Deploy:
-        * Docker
+Markup : * Backend:
+            * Java 8
+            * Spring
+            * Hibernate
+            * Maven
+        * Frontend:
+            * React.js
+        * Deploy:
+            * Docker
 
 
