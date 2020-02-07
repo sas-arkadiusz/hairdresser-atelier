@@ -1,0 +1,4 @@
+FROM openjdk:8u201-jdk-alpine3.9
+ADD target/hairdresser-atelier-0.0.1.jar .
+EXPOSE 5050
+CMD java -jar hairdresser-atelier-0.0.1.jar

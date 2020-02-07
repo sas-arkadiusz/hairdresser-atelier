@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+    atelier-api:
+        build: 
+          context: ../hairdresser-app
+          dockerfile: dockerfile-api
+        ports:
+          - "5050:8080"
